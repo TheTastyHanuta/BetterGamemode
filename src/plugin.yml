@@ -1,0 +1,7 @@
+name: BetterGamemode
+version: 1.0
+author: Hanuta
+main: az.main.Mainclass
+commands:
+  gamemode:
+  gm:
